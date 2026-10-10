@@ -1,0 +1,79 @@
+# CodeAlpha Chatbot - FAQ knowledge base
+# Format:
+#   Q: question one || another way to ask it || a third way
+#   A: the answer (can continue on following lines)
+#   (blank line between entries)
+# Add or edit entries freely, then restart the chatbot. No re-compiling needed.
+# NOTE: please verify the facts below against www.codealpha.tech before final submission.
+
+Q: What is CodeAlpha? || Tell me about CodeAlpha || About the company || Who is CodeAlpha || What is this company
+A: CodeAlpha is a software development company dedicated to fostering talent and innovation in various domains. It runs internship programs that give students hands-on experience with real projects and technologies.
+
+Q: What services does CodeAlpha offer? || What does CodeAlpha do || What do you provide || company services
+A: CodeAlpha is a software development company. Besides building software, it offers internship programs where learners work on practical projects in different technology domains.
+
+Q: Which internship domains are available? || What internships do you offer || Which fields can I choose || internship domains and technologies || Do you have Java Python web development internships
+A: CodeAlpha offers internships across several technology domains, for example Java programming, Python programming, web development, full stack development, app development, data analytics, data science and cloud computing. Available domains can change, so check www.codealpha.tech for the current list.
+
+Q: How do I apply for an internship? || How can I join CodeAlpha || How to register || application process || Where do I sign up || How to enroll
+A: You can apply through the CodeAlpha website, www.codealpha.tech. Choose the domain you are interested in and fill in the application form. If you get stuck, email support@codealpha.tech.
+
+Q: Is the internship free? || What is the fee || How much does it cost || Do I have to pay || internship price
+A: I don't have confirmed fee details. Please check the official website, www.codealpha.tech, or email support@codealpha.tech for the latest information on any fees.
+
+Q: Who is eligible for the internship? || Who can apply || eligibility criteria || Can a student or fresher apply || requirements to join
+A: The programs are aimed at students and learners who want practical experience in a technology domain. For exact eligibility rules, please check www.codealpha.tech.
+
+Q: What are the internship perks? || What benefits do interns get || What will I receive || What do I get after the internship
+A: Interns can receive an internship offer letter, an internship completion certificate, a QR-verified certificate and a unique ID certificate. Program materials also mention a letter of recommendation based on performance, placement support and resume building.
+
+Q: How do I get the internship certificate? || When will I receive my certificate || certificate eligibility || completion certificate requirements
+A: To receive the completion certificate you must complete the required number of assigned tasks and submit them through the official submission form. Certificates are QR-verified and carry a unique ID.
+
+Q: How many tasks do I need to complete? || Do I have to finish all tasks || minimum tasks for certificate || What if I complete only one or two tasks
+A: Interns are usually given four tasks and must complete the minimum number stated in their task document, which is typically two or three of the four. If you finish fewer than the required number, the internship may be considered incomplete and the certificate may not be provided. Always follow the instructions in your own task document.
+
+Q: How do I submit my tasks? || Where do I submit my work || task submission form || How to upload my project || submit assignment
+A: Tasks are submitted through the official Submission Form shared with your internship instructions. Prepare your project, usually with a code repository link and a short demo or description, and submit it before the deadline.
+
+Q: What is the deadline or duration of the internship? || How long is the internship || How many days do I have to submit || time limit for tasks
+A: Each internship has a time limit for submitting tasks. Some task documents mention 15 days. Check your offer letter and task document for your exact deadline.
+
+Q: Do I need to share my internship on LinkedIn? || LinkedIn post || Should I tag CodeAlpha on LinkedIn
+A: Yes. The instructions ask interns to share their internship status on LinkedIn and mention @CodeAlpha.
+
+Q: Will I get an offer letter? || Internship offer letter || When do I get my joining letter
+A: Yes, an internship offer letter is listed among the perks of the program.
+
+Q: Is there placement support or a job opportunity? || Will I get a job after the internship || letter of recommendation || resume building help
+A: Program materials mention job opportunities and placement support, a letter of recommendation based on performance, and resume building. These benefits depend on your performance during the internship.
+
+Q: How can I contact CodeAlpha? || Contact support || email address || I need help from the team || customer care || reach the team
+A: You can email support@codealpha.tech or services.codealpha@gmail.com, or visit www.codealpha.tech.
+
+Q: What is the CodeAlpha website? || website link || official site || Where can I find more information
+A: The official website is www.codealpha.tech.
+
+Q: How can I verify my certificate? || Is the certificate genuine or fake || certificate verification || QR code on certificate
+A: CodeAlpha certificates are QR-verified and include a unique ID, so they can be checked for authenticity. If you have doubts about a certificate, contact support@codealpha.tech.
+
+Q: What tasks will I get in the Java internship? || Java programming tasks || What projects will I build || Java internship project examples
+A: Interns build small practical projects in their chosen domain. In the Java domain, a typical task is to build an application such as an AI chatbot with NLP, a GUI and FAQ handling, which is exactly what I am an example of!
+
+Q: Do you provide mentorship or doubt solving sessions? || Can I ask doubts || Is there guidance for interns || live sessions
+A: CodeAlpha has held live doubt-solving sessions about tasks, evaluation and certificates. For any question about your tasks, you can also email support@codealpha.tech.
+
+Q: Can I work on more than one internship? || Can I change my domain || switch domain
+A: Please contact support@codealpha.tech to ask about changing or adding a domain, since this depends on the current program rules.
+
+Q: Is the internship online or remote? || Do I need to come to an office || work from home || internship mode
+A: Please check your offer letter and the official website for the mode of the internship. Tasks are submitted through an online form.
+
+Q: What skills will I learn? || What will I gain from the internship || learning outcomes || technologies used
+A: You gain hands-on experience building real projects, practice with tools and technologies in your domain, and a portfolio you can show to future employers.
+
+Q: Can I upload my project to GitHub? || Should I use GitHub || repository link || project portfolio
+A: Yes, publishing your code on GitHub is a good practice and a convenient way to share your work in the submission form. Include a clear README with setup instructions.
+
+Q: Who made you? || What are you || Are you a robot || Tell me about this chatbot || What can you do
+A: I am the CodeAlpha Assistant, a Java-based chatbot. I use natural language processing (tokenization, stop-word removal, stemming and TF-IDF similarity) together with rule-based replies to answer frequently asked questions about CodeAlpha. Ask me about internships, certificates, tasks, deadlines or contact details.
